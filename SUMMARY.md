@@ -2,7 +2,7 @@
 
 * [Introduction to the iSHARE Dataspace Template](README.md)
 * [Documentation structure](documentation-structure.md)
-* [Build on top of the iSHARE Trust Framework](build-on-top-of-the-ishare-trust-framework.md)
+* [Designed on basis of the iSHARE Trust Framework 2.0](designed-on-basis-of-the-ishare-trust-framework-2.0.md)
 
 ## Business
 
@@ -38,3 +38,7 @@
 * [Data, services and offerings descriptions](data-value-creation/data-services-and-offerings-descriptions.md)
 * [Publication and discovery](data-value-creation/publication-and-discovery.md)
 * [Marketplaces](data-value-creation/marketplaces.md)
+
+## Operational
+
+* [Service level agreements](operational/service-level-agreements.md)
