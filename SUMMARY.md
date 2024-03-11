@@ -41,4 +41,5 @@
 
 ## Operational
 
+* [Operational Processes](operational/operational-processes.md)
 * [Service level agreements](operational/service-level-agreements.md)
