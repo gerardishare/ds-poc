@@ -1,6 +1,6 @@
 # Organisational governance
 
-The dataspace governing body takes part in the [governance of the iSHARE](https://framework.ishare.eu/is/governance-framework) Trust Framework in order to influence the development of the iSHARE Trust Framework, so that it's applicability to this dataspace is ensured. Representatives take part in the following governance bodies:
+The dataspace governing body takes part in the [governance of the iSHARE Trust Framework](https://framework.ishare.eu/is/governance-framework) in order to influence the development of the iSHARE Trust Framework, so that it's applicability to this dataspace is ensured. Representatives take part in the following governance bodies:
 
 * Supervisory Board
 * Council Of Participants
