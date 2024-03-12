@@ -1,4 +1,4 @@
-# Operational Processes
+# Operational processes
 
 The iSHARE Trust Framework provides comprehensive guidelines for operational aspects of the data space. \
 These include : \

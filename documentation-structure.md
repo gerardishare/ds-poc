@@ -5,7 +5,9 @@ This documentation is mainly structured based on the [building blocks as defined
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Overview of DSSC Building Blocks</p></figcaption></figure>
 
 {% hint style="info" %}
-Dataspaces are allowed to publish agreements on other topics then the topics above. iSHARE already provides one extra topic:
+Dataspaces are allowed to publish agreements on other topics then the topics above. iSHARE provides the following extra topics:
 
-* [Operational agreements on service levels](operational/service-level-agreements.md)
+* [Operational processes](operational/operational-processes.md)
+* [Service level agreements](operational/service-level-agreements.md)
+* [Glossary](glossary.md)
 {% endhint %}

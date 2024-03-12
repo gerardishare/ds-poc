@@ -3,6 +3,7 @@
 * [Introduction to the iSHARE Dataspace Template](README.md)
 * [Documentation structure](documentation-structure.md)
 * [Designed on basis of the iSHARE Trust Framework 2.0](designed-on-basis-of-the-ishare-trust-framework-2.0.md)
+* [Glossary](glossary.md)
 
 ## Business
 
@@ -41,5 +42,5 @@
 
 ## Operational
 
-* [Operational Processes](operational/operational-processes.md)
+* [Operational processes](operational/operational-processes.md)
 * [Service level agreements](operational/service-level-agreements.md)
