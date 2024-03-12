@@ -14,8 +14,8 @@
 
 ## Governance
 
-* [Organisational governance](governance/organisational-governance.md)
-* [Data sharing governance](governance/data-sharing-governance.md)
+* [Organisational governance & governance authority](governance/organisational-governance-and-governance-authority.md)
+* [Participation management](governance/participation-management.md)
 
 ## Legal
 
@@ -30,15 +30,15 @@
 
 ## Data sovereignty & trust
 
-* [Access & usage policies and control](data-sovereignty-and-trust/access-and-usage-policies-and-control.md)
-* [Identity management](data-sovereignty-and-trust/identity-management.md)
-* [Trust](data-sovereignty-and-trust/trust.md)
+* [Access & usage policies and enforcement](data-sovereignty-and-trust/access-and-usage-policies-and-enforcement.md)
+* [Identity & attestation management](data-sovereignty-and-trust/identity-and-attestation-management.md)
+* [Trust framework](data-sovereignty-and-trust/trust-framework.md)
 
 ## Data value creation
 
-* [Data, services and offerings descriptions](data-value-creation/data-services-and-offerings-descriptions.md)
-* [Publication and discovery](data-value-creation/publication-and-discovery.md)
-* [Marketplaces](data-value-creation/marketplaces.md)
+* [Data, services & offerings descriptions](data-value-creation/data-services-and-offerings-descriptions.md)
+* [Publication & discovery](data-value-creation/publication-and-discovery.md)
+* [Value added services](data-value-creation/value-added-services.md)
 
 ## Operational
 

@@ -7,7 +7,11 @@ This topic is not covered in the iSHARE Trust Framework. The dataspace is free t
 {% hint style="info" %}
 **DSSC Description**
 
-Data product development considers data product templates for the data providers, data space governance rules for the data products and network effects between data providers and users.
+Data products bundle a set of resources (e.g., data sets and data services) into a consumable form to provide meaningful business value in data space use cases. Data products comply with a data product specification and are part of one or more data product offerings. Data product offerings describe the data product, its allowed purposes of use, quality and other requirements the data product fulfils, pricing and billing information, and other contractual details.
 
-Data products are basic units of data space use cases. While data spaces follow the distributed design and differ in this regard from centralised platforms, many aspects of platform economics apply. An essential value driver in data spaces is establishing network effects between the ‘supply’ and ‘demand’ of data. Access to a good selection of data products will attract data users, and a large user base will attract more data providers.
+Data products can be used and combined to create value in the use cases. The same data product can be used in several use cases, potentially leading to network effects of the data space. Data products can be combined, and used also as part of other type of value-added services.
+
+This building block provides the data space initiatives with an understanding of data products, their related concepts, and their benefits from the business perspective. Data spaces without a well-established strategy for data product management face the risk of hindered scaling, lost business opportunities, and more complex and fragmented governance mechanisms. Therefore, this building block suggests the data space initiatives to develop guidelines for the data space participants in productising resources and creating data product offerings, governance rules for the data products, and to consider triggering the network effects between data providers and recipients by priority onboarding of key data products.
+
+The complete description is available [here](https://dssc.eu/space/BVE/357074277/Data+Product+Development).
 {% endhint %}
