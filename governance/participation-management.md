@@ -12,7 +12,7 @@ The following operational processes are relevant to participation management:
 * [Warnings, Suspension and Exclusion](https://framework.ishare.eu/is/warnings-suspension-and-exclusion)&#x20;
 
 {% hint style="info" %}
-The iSHARE Trust Framework provides generic onboarding procedures, but dataspaces will most likely describe onboarding procedures in more detail.&#x20;
+The iSHARE Trust Framework provides generic onboarding procedures, but each dataspace is free to define operational requirements for onboarding, participating and reporting in the dataspace beyond the base layer provided by the Trust Framework.&#x20;
 {% endhint %}
 
 {% hint style="info" %}

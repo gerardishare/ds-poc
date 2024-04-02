@@ -12,8 +12,6 @@ The iSHARE Trust Framework provides comprehensive guidelines for operational asp
 
 [Change Management](https://framework.ishare.eu/is/change-management)
 
-[Management reporting](https://framework.ishare.eu/is/management-reporting)\
+[Management reporting](https://framework.ishare.eu/is/management-reporting)
 
-
-Each data space is free to define operational requirements for onboarding, participating and reporting in the data space beyond the base layer provided by the Trust Framework.&#x20;
-
+Operational processes regarding participant management (admission, withdrawal, etc.) are covered under the topic of [participation-management.md](../governance/participation-management.md "mention").
