@@ -8,6 +8,5 @@ This documentation is mainly structured based on the [building blocks as defined
 Dataspaces are allowed to publish agreements on other topics then the topics above. iSHARE provides the following extra topics, which are also covered in this dataspace framework:
 
 * [Operational processes](operational/operational-processes.md)
-* [Service level agreements](operational/service-level-agreements.md)
 * [Glossary](glossary.md)
 {% endhint %}

@@ -3,7 +3,17 @@
 The iSHARE Trust Framework is underpinned by legal agreements to which all participants (both Adhering Parties and Certified Parties) need to adhere:
 
 * [Legal Provisions](https://framework.ishare.eu/is/legal-provisions)
-* [Legal Agreements & Terms of Use ](https://framework.ishare.eu/is/legal)
+* [Legal Agreements & Terms of Use](https://framework.ishare.eu/is/legal)
+
+Part of the Terms of Use are the service level agreements with which adhering and certifiied parties should comply:
+
+* [Service levels](https://framework.ishare.eu/is/service-levels)
+* [Service levels for Adhering Parties](https://framework.ishare.eu/is/service-levels-for-adhering-parties)
+* [Service levels for Certified Parties/Satellite](https://framework.ishare.eu/is/service-levels-for-certified-parties-satellite)
+
+{% hint style="info" %}
+The service levels for Satellites or Data space authorities are monitored by the Foundation as the Scheme Owner. For each data space, the members can define service levels more firm or specific but not conflicting with ones defined by the Framework. A service level requirement for 95% availability can be set to 99% if it is more applicable for the data space but not be reduced to 80%.
+{% endhint %}
 
 {% hint style="info" %}
 **DSSC Description**
