@@ -7,3 +7,7 @@ This is a template for defining a dataspace that is build on top of the [iSHARE 
 3. Publish the template
 
 Please note that the iSHARE Framework can on some topics be "overwritten" and on other topics cannot. Please contact iSHARE to learn more about this.
+
+{% hint style="info" %}
+© iSHARE Foundation, 2024.&#x20;
+{% endhint %}
