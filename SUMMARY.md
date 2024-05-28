@@ -4,6 +4,7 @@
 * [Documentation structure](documentation-structure.md)
 * [Designed on basis of the iSHARE Trust Framework 2.0](designed-on-basis-of-the-ishare-trust-framework-2.0.md)
 * [Glossary](glossary.md)
+* [Legal notices](legal-notices.md)
 
 ## Business
 
