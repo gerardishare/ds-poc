@@ -7,7 +7,7 @@ The dataspace governing body takes part in the [governance of the iSHARE Trust F
 * Change Advisory Board
 
 {% hint style="info" %}
-The iSHARE Trust Framework provides flexibility for dataspaces to define their governance and the iSHARE governance framework can be used as a template for defining dataspace governance.&#x20;
+The iSHARE Trust Framework provides flexibility for dataspaces to define their governance and the iSHARE governance framework can be used as a template for defining dataspace governance. The iSHARE Trust Framework recognises the [role of Dataspace Governance Body (formerly iSHARE Satellite)](https://framework.ishare.eu/is/framework-and-roles), which comes with responsibilities regarding participant management and would form a logical centerpoint in defining the dataspace governance.
 {% endhint %}
 
 {% hint style="info" %}
