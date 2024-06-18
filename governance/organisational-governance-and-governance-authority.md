@@ -7,7 +7,7 @@ The dataspace governing body takes part in the [governance of the iSHARE Trust F
 * Change Advisory Board
 
 {% hint style="info" %}
-The iSHARE Trust Framework doesn't provide in governance agreements for dataspaces. The dataspace is free to define it's own governance.
+The iSHARE Trust Framework provides flexibility for dataspaces to define their governance and the iSHARE governance framework can be used as a template for defining dataspace governance.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
