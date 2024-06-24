@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to the iSHARE Dataspace Template](README.md)
+* [Introduction to the iSHARE Data space Template](README.md)
 * [Documentation structure](documentation-structure.md)
 * [Designed on basis of the iSHARE Trust Framework 2.0](designed-on-basis-of-the-ishare-trust-framework-2.0.md)
 * [Glossary](glossary.md)
@@ -11,7 +11,7 @@
 * [Business model](business/business-model.md)
 * [Use cases](business/use-cases.md)
 * [Data products](business/data-products.md)
-* [Dataspace intermediary](business/dataspace-intermediary.md)
+* [Data space intermediary](business/data-space-intermediary.md)
 
 ## Governance
 

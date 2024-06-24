@@ -1,6 +1,6 @@
 # Trust framework
 
-Trust in the dataspace is achieved by implementation of the [iSHARE Trust Framework](https://framework.ishare.eu). The trust is achieved by three trust principles:
+Trust in the data space is achieved by implementation of the [iSHARE Trust Framework](https://framework.ishare.eu). The trust is achieved by three trust principles:
 
 <figure><img src="../.gitbook/assets/iSHARE Trust Principles.png" alt="" width="563"><figcaption><p>iSHARE Trust Principles</p></figcaption></figure>
 

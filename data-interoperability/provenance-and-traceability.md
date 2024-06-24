@@ -1,13 +1,13 @@
 # Provenance and traceability
 
 {% hint style="info" %}
-This topic is not covered in the iSHARE Trust Framework. The dataspace is free to define agreements or remove this section.
+This topic is not covered in the iSHARE Trust Framework. The data space is free to define agreements or remove this section.
 {% endhint %}
 
 {% hint style="info" %}
 **DSSC Description**
 
-This building block provides guidance to a dataspace which needs to support provenance, traceability, logging, audits, etcetera, in a standardised way for the use cases it supports.
+This building block provides guidance to a data space which needs to support provenance, traceability, logging, audits, etcetera, in a standardised way for the use cases it supports.
 
 Some use cases need additional data over the actual data being shared. This additional data may need the same or different access and usage management than the actual data itself.
 

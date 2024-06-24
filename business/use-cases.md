@@ -11,7 +11,7 @@ The three primary use cases are supported by [seven secondary use cases](https:/
 A more practical description of the frameworks functionality is provided in [these four example use cases](https://framework.ishare.eu/is/use-cases).
 
 {% hint style="info" %}
-These use cases provide a generic overview of functionality the framework provides. In order to get a more practical view on provided functionality by this particular dataspace, it is suggested to provide real life examples under this page, that resonate with (potential) dataspace participants.
+These use cases provide a generic overview of functionality the framework provides. In order to get a more practical view on provided functionality by this particular data space, it is suggested to provide real life examples under this page, that resonate with (potential) data space participants.
 {% endhint %}
 
 {% hint style="info" %}

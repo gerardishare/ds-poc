@@ -8,7 +8,7 @@ The iSHARE Framework provides a comprehensive set of tools to ensure proper acce
 * The [structure of delegation evidence](https://framework.ishare.eu/is/structure-of-delegation-evidence) is well defined in the framework and on the [dev portal](https://dev.ishare.eu)
 
 {% hint style="info" %}
-iSHARE provides a generic approach for delegations, including generic licenses. The dataspace can decide to provide better guidance or standards on the semantics of delegations (specifically for policy->target) and to allow more detailed licenses.
+iSHARE provides a generic approach for delegations, including generic licenses. The data space can decide to provide better guidance or standards on the semantics of delegations (specifically for policy->target) and to allow more detailed licenses.
 {% endhint %}
 
 {% hint style="info" %}

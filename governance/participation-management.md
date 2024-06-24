@@ -1,6 +1,6 @@
 # Participation management
 
-This dataspace builds upon the role model as provided in the iSHARE Trust Framework:
+This data space builds upon the role model as provided in the iSHARE Trust Framework:
 
 * The roles are defined [here](https://framework.ishare.eu/is/framework-and-roles)
 * The functional requirements per role [here](https://framework.ishare.eu/is/functional-requirements-per-role)
@@ -12,7 +12,7 @@ The following operational processes are relevant to participation management:
 * [Warnings, Suspension and Exclusion](https://framework.ishare.eu/is/warnings-suspension-and-exclusion)&#x20;
 
 {% hint style="info" %}
-The iSHARE Trust Framework provides generic onboarding procedures, but each dataspace is free to define operational requirements for onboarding, participating and reporting in the dataspace beyond the base layer provided by the Trust Framework.&#x20;
+The iSHARE Trust Framework provides generic onboarding procedures, but each data space is free to define operational requirements for onboarding, participating and reporting in the data space beyond the base layer provided by the Trust Framework.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
