@@ -15,5 +15,5 @@ A data space's business model is unique because it requires aligned activities f
 
 The business model development for a data space is complex because of its unique properties. On the one hand, it must be attractive to use cases in which both providers and users of data create value. On the other hand, it must also be attractive for providers of services needed to operate the data space or add value to use cases. Therefore, this building block highlights the key themes the data space initiative should consider. A data space initiative's choices can affect options in other building blocks, such as organisational governance. Therefore, a data space initiative is advised to use the building blocks in coherence.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357074186/Business+Model+Development).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071252828/Business+Model).
 {% endhint %}
