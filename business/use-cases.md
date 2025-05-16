@@ -21,5 +21,6 @@ The value of a data space stems from its use cases. Data space use cases are spe
 
 The consecutive and partially iterative core elements of Use Case Development are identification and monitoring of use case scenarios, refinement of use case scenarios, and use case implementation. New ideas for potential future use cases are generated in the identification and monitoring of use case scenarios process element. Use case implementation enables the realisation of best use case scenarios into operative use cases once their details have been set and viability tested in refinement of use case scenarios. Refinement of use case scenarios is the most central element. It includes, at the minimum, the setting of the purpose and value of the use case, the parties participating in the use case, and the necessary data flows of the use case. The three other elements of Use Case Development that are simultaneous with and supportive of refinement of use case scenarios are brokering and ensuring synergies, support for value sharing in use cases, and ensuring adherence to principles.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357074241/Use+Case+Development).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071253123/Use+Case+Development).
 {% endhint %}
+

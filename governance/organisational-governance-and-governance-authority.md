@@ -17,5 +17,5 @@ This building block encompasses key decision-making points for the effective est
 
 Determining the organisational form and establishing the governance authority should be completed before the data space enters the operational phase. At least in the most essential parts, the governance framework should be created in parallel to support the functioning of the new data space. The organisational form, type of governance authority, and role may evolve over time due to the scaling up of the data space or the assumption of new functions. Larger data spaces may have a more complex organisational structure and establish various bodies, such as working groups or committees, within the data space to fulfil specific tasks.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357074549/Organisational+Form+and+Governance+Authority).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071253671/Organisational+Form+and+Governance+Authority).
 {% endhint %}

@@ -9,5 +9,5 @@ Regulatory compliance encompasses a range of activities designed to ensure that 
 
 Key elements of this building block include mapping and analysing legal provisions specifically applicable to data spaces, and understanding the legal dimension of the key elements (such as data and actors/participants) that every data space contains.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357074696/Regulatory+Compliance).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071253931/Regulatory+Compliance).
 {% endhint %}

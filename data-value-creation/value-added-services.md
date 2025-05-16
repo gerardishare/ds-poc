@@ -11,5 +11,5 @@ A value-added service in a data space is a service that enables, for the data sp
 
 This type of service complements data space enabling services (in their aim to provide a core function for the governance authority and enable data transactions between participants), generating additional value in the data space according to the defined business model and supporting this value generation through the use cases.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357076468/Value-Added+Services).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071257170/Value+creation+services).
 {% endhint %}

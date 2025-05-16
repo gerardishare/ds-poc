@@ -36,5 +36,5 @@ Some domains may be affected by concrete regulations for the enforcement of poli
 
 In summary, the purpose of a data space is to control data sharing, which cannot be realised without policy enforcement.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357075567/Access+%26+Usage+Policies+Enforcement).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071256095/Access+&+Usage+Policies+Enforcement).
 {% endhint %}

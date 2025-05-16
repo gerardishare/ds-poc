@@ -23,5 +23,5 @@ A solution needs to fulfil the requirements of the data space governance, legal 
 
 The requirement for observability, traceability and provenance tracking is usually found in highly regulated industries or in cases dealing with high-value data. Data being used for artificial intelligence is an example of a situation where such mechanisms can be required by law (in this case, the AI Act).
 
-The complete description is available [here](https://dssc.eu/space/BVE/357075283/Provenance+%26+Traceability).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071255571/Provenance+&+Traceability).
 {% endhint %}

@@ -19,5 +19,5 @@ The starting point is the data space governance framework, which outlines the da
 
 \*\* Risk assessments are, to a certain extent, subjective matters that depend on the assurance or proof provided regarding the promise or claim made by the entity subject to the assessment.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357075461/Trust+Framework).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071255941/Trust+Framework).
 {% endhint %}

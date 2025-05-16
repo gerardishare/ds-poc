@@ -23,5 +23,5 @@ Based on a data space’s governance, mandatory information provided on the rele
 
 In particular, W3C standards and Qualified Electronic Attestation of Attributes provided by Qualified Trust Service Providers following eIDAS Regulation are leveraged.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357075352/Identity+and+Attestation+Management).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071255737/Identity+&+Attestation+Management).
 {% endhint %}

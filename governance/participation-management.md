@@ -23,5 +23,5 @@ However, the participation management building block contains various relationsh
 
 Overall, the Participation Management building block provides a comprehensive framework for the efficient and secure engagement of participants in data spaces, emphasising the need for clear rules, inclusive governance, and adherence to regulatory compliance.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357074624/Participation+Management).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071253799/Participation+Management).
 {% endhint %}

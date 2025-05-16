@@ -13,5 +13,5 @@ Data products can be used and combined to create value in the use cases. The sam
 
 This building block provides the data space initiatives with an understanding of data products, their related concepts, and their benefits from the business perspective. Data spaces without a well-established strategy for data product management face the risk of hindered scaling, lost business opportunities, and more complex and fragmented governance mechanisms. Therefore, this building block suggests the data space initiatives to develop guidelines for the data space participants in productising resources and creating data product offerings, governance rules for the data products, and to consider triggering the network effects between data providers and recipients by priority onboarding of key data products.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357074277/Data+Product+Development).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071253231/Data+Space+Offering).
 {% endhint %}

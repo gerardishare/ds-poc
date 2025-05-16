@@ -15,5 +15,5 @@ A data model is a structured representation of data elements and relationships u
 
 Additionally, this building block describes how these data models can be managed, by whom, and what tooling can assist in this process. Finally, four critical design choices are described to implement and manage data models in a data space.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357075098/Data+Models).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071255252/Data+Models).
 {% endhint %}

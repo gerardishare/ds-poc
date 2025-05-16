@@ -11,5 +11,5 @@ In terms of data exchange the conceptual model of a data space has two different
 
 The data exchange building block focuses on data transmission once the previous conditions for interchange authorisation are met. It operates in the data plane once the control plane has enabled data sharing.
 
-The complete description is available [here](https://dssc.eu/space/BVE/357075193/Data+Exchange).
+The complete description is available [here](https://dssc.eu/space/BVE2/1071255453/Data+Exchange).
 {% endhint %}
