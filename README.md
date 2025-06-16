@@ -9,5 +9,5 @@ This is a template for defining a data space that is build on top of the [iSHARE
 Please note that the iSHARE Framework can on some topics be "overwritten" and on other topics cannot. Please contact iSHARE to learn more about this.
 
 {% hint style="info" %}
-© iSHARE Foundation, 2024.&#x20;
+© iSHARE Foundation, 2025.&#x20;
 {% endhint %}
